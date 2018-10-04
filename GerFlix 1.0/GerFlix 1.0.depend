@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1524605400 source:c:\test\scarafilo\gerflix 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuario.h"
+
+1524580030 c:\test\scarafilo\gerflix 1.0\serie.h
+
+1524600972 c:\test\scarafilo\gerflix 1.0\usuario.h
+	"Serie.h"
+
+1524605468 source:c:\test\scarafilo\gerflix 1.0\serie.c
+	"Serie.h"
+	<string.h>
+
+1524601547 source:c:\test\scarafilo\gerflix 1.0\usuario.c
+	"Usuario.h"
+
+1524840514 source:d:\fragan\gerflix-master\gerflix-master\gerflix 1.0\usuario.c
+	"Usuario.h"
+
+1524743641 d:\fragan\gerflix-master\gerflix-master\gerflix 1.0\usuario.h
+	"Serie.h"
+
+1524743641 d:\fragan\gerflix-master\gerflix-master\gerflix 1.0\serie.h
+
+1524834975 source:d:\fragan\gerflix-master\gerflix-master\gerflix 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usuario.h"
+
+1524832278 source:d:\fragan\gerflix-master\gerflix-master\gerflix 1.0\serie.c
+	"Serie.h"
+	<string.h>
+
+1538146038 source:c:\users\alumno\desktop\gerflix\gerflix 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usu-Ser.h"
+
+1538146272 c:\users\alumno\desktop\gerflix\gerflix 1.0\usuario.h
+
+1538148551 c:\users\alumno\desktop\gerflix\gerflix 1.0\serie.h
+
+1538146134 source:c:\users\alumno\desktop\gerflix\gerflix 1.0\serie.c
+	"Serie.h"
+	<string.h>
+
+1538146272 source:c:\users\alumno\desktop\gerflix\gerflix 1.0\usuario.c
+	"Usuario.h"
+
+1538146279 source:c:\users\alumno\desktop\gerflix\gerflix 1.0\usu-ser.c
+	"Usu-Ser.h"
+	<stdio.h>
+	<stdlib.h>
+
+1538145885 c:\users\alumno\desktop\gerflix\gerflix 1.0\usu-ser.h
+	"Serie.h"
+	"Usuario.h"
+
+1538148564 source:c:\users\alumno\desktop\gerflix-master\gerflix 1.0\serie.c
+	"Serie.h"
+	<string.h>
+
+1538148564 c:\users\alumno\desktop\gerflix-master\gerflix 1.0\serie.h
+
+1538664421 source:c:\users\alumno\desktop\gerflix-master\gerflix 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Usu-Ser.h"
+
+1538664484 c:\users\alumno\desktop\gerflix-master\gerflix 1.0\usu-ser.h
+	"Serie.h"
+	"Usuario.h"
+
+1538148564 c:\users\alumno\desktop\gerflix-master\gerflix 1.0\usuario.h
+
+1538664421 source:c:\users\alumno\desktop\gerflix-master\gerflix 1.0\usu-ser.c
+	"Usu-Ser.h"
+	<stdio.h>
+	<stdlib.h>
+
+1538664621 source:c:\users\alumno\desktop\gerflix-master\gerflix 1.0\usuario.c
+	"Usuario.h"
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+
